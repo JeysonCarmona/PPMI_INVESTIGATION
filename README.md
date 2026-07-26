@@ -114,7 +114,7 @@ Notes:
 
 
 ### Notebook 4 - integrated_Patient_Explorer
-Pending screenshot.
+
 ![Notebook 4](assets/screenshots/notebook4_master_index.png)
 
 ### Notebook 5 - Exploration interface (ipywidgets)
