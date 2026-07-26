@@ -178,4 +178,4 @@ PPMI_INVESTIGATION/
 ## Authors
 
 Machine Learning and Deep Learning research seed group, Universidad Autonoma de Manizales
-Jeyson Carmona, Michael Lamprea Vera, Melanny Cortez Zuniga
+Jeyson Carmona, Michael Lamprea Vera
