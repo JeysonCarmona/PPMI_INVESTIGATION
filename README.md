@@ -108,33 +108,26 @@ Notes:
 
 ## Interface screenshots
 
-Since the tables and interfaces (ipywidgets, dashboards, `display()` outputs) are not visible on GitHub when opening the `.ipynb` files, they are documented here with screenshots taken in Colab.
-
-How to add a new screenshot:
-
-1. In Colab, run the cell that generates the table or interface and take a screenshot.
-2. Save the image inside `assets/screenshots/` with a descriptive name, for example `notebook5_search_interface.png`.
-3. Reference it in this README as follows:
 
 ```markdown
-![Exploration interface - Notebook 5](assets/screenshots/notebook5_search_interface.png)
 ```
 
-### Notebook 1 - Patient analysis
-Pending screenshot.
-<!-- ![Notebook 1](assets/screenshots/notebook1_patient_analysis.png) -->
 
-### Notebook 4 - Master patient index
+### Notebook 4 - integrated_Patient_Explorer
 Pending screenshot.
-<!-- ![Notebook 4](assets/screenshots/notebook4_master_index.png) -->
+![Notebook 4](assets/screenshots/notebook4_master_index.png)
 
 ### Notebook 5 - Exploration interface (ipywidgets)
-Pending screenshot.
-<!-- ![Notebook 5](assets/screenshots/notebook5_interface.png) -->
+
+![Notebook 5](assets/screenshots/notebook5_interface.png)
+
+### Notebook 6 - Load Patient
+
+ ![Notebook 6](assets/screenshots/notebook6_load_patient.png)
 
 ### Notebook 6 - File extraction manager
 Pending screenshot.
-<!-- ![Notebook 6](assets/screenshots/notebook6_extraction.png) -->
+![Notebook 6](assets/screenshots/notebook6_extraction.png)
 
 Upload the images to `assets/screenshots/`, then uncomment (remove `<!--` and `-->`) the corresponding line in this README so the image is displayed.
 
